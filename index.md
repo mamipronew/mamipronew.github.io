@@ -5,5 +5,14 @@
 ## Profile
 - とまめ（本名の変形＋なにかです）
 - 東京都渋谷区
-- 現在はJavaScriptとNode.js勉強中でRailsなんかも勉強してました
+- 現在はJavaScriptとNode.js勉強中でRailsなんかも勉強してました。
+
+# Skils
+-　GitHub
+- JavaScript
+- Node.js
+
+# Works
+
+# 
 
