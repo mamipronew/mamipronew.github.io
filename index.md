@@ -14,5 +14,9 @@
 
 # Works
 
-# 
+# Contact
+
+# History
+- N予備校プログラミング入門コース(2019年）履修
+- Ruby on Rails Tutorial一周半
 
